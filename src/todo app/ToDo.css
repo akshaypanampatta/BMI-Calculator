@@ -1,0 +1,16 @@
+.todo-container{
+    background-color: black;
+    width: 40rem;
+    height: 60rem;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    text-align: center;
+
+    
+}
+.header{
+    font-size: 3rem;
+    color: red;
+
+}
